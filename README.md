@@ -1,5 +1,4 @@
 # Retrieval
-Newest Version
 Please follow the instructions before starting:
 
 1. Copy the Gynacology_v4(given with this git folder) into AndroidStudioProjects.
