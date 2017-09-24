@@ -2,7 +2,7 @@
 Newest Version
 Please follow the instructions before starting:
 
-1. Copy the Gynacology-_v4(given with this git folder) into AndroidStudioProjects.
+1. Copy the Gynacology_v4(given with this git folder) into AndroidStudioProjects.
 2. Paste the Database-php(given with this git folder) folder in xammp/htdocs/ and rename it as gyno.
 3. Open phpMyAdmin and create a database named "Gynaecology".
 4. After creating click on the created database, in top bar, choose sql.
